@@ -1,0 +1,19 @@
+{
+  "name": "password-competition-app",
+  "version": "1.0.0",
+  "description": "password desktop app",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoko14/password-competition-app.git"
+  },
+  "author": "Xoko14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xoko14/password-competition-app/issues"
+  },
+  "homepage": "https://github.com/xoko14/password-competition-app#readme"
+}
